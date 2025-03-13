@@ -19,8 +19,8 @@ class Product_seeder extends Seeder
         Supplier::insert([
             [
                 'name' => 'Peter',
-                'contact' => 'Anyad',
-                'email' =>  'asd@asd.com'
+                'contact_phone' => '06306021036',
+                'contact_email' =>  'asd@asd.com'
             ]
         ]);
 
